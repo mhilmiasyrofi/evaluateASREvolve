@@ -35,29 +35,31 @@ if __name__ == "__main__" :
 
     model_path = model_dir + "/" + model_name
 
-    # root_dir needs a trailing slash (i.e. /root/dir/)
-    # for filename in glob.iglob(root_dir + '**/*.trans.txt', recursive=True):
-    #     print(filename)
+    ### root_dir needs a trailing slash (i.e. /root/dir/)
+    for filename in glob.iglob(root_dir + '**/*.trans.txt', recursive=True):
+        print(filename)
 
-    filename = "LibriSpeech/test-clean/61/70968/61-70968.trans.txt"
+        # filename = "LibriSpeech/test-clean/61/70968/61-70968.trans.txt"
 
-    file = open(filename)
+        file = open(filename)
 
-    for line in file.readlines()[0:1] :
-        idx = line.split()[0]
-        text = " ".join(line.split()[1:])
-        
-        fname = os.path.join(root_dir, idx_to_file(idx), idx)
-        flac_path = fname + ".flac"
-        wav_path = fname + ".wav"
-        transcription_path = fname + "." + model_dir + ".transcription.txt"
-        convert_flac_to_wav(flac_path, wav_path)
-        deepspeech_recognize_audio(model_path, wav_path)
+        for line in file.readlines() :
+            idx = line.split()[0]
+            text = " ".join(line.split()[1:])
+            
+            fname = os.path.join(root_dir, idx_to_file(idx), idx)
+            flac_path = fname + ".flac"
+            wav_path = fname + ".wav"
+            transcription_path = fname + "." + model_dir + ".transcription.txt"
 
-        # print(wav_path)
-        # print(os.path.exists(wav_path))
-        # print(text)
+            if not os.path.exists(wav_path):
+                convert_flac_to_wav(flac_path, wav_path)
 
+            if not os.path.exists(transcription_path):
+                transcription = deepspeech_recognize_audio(model_path, wav_path)
 
-    file.close()
+                file = open(transcription_path, "w+")
+                file.write("%s\n" % transcription)
+                file.close()
 
+        file.close()
