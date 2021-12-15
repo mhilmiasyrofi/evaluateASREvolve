@@ -58,8 +58,8 @@ if __name__ == "__main__" :
             if not os.path.exists(transcription_path):
                 transcription = deepspeech_recognize_audio(model_path, wav_path)
 
-                file = open(transcription_path, "w+")
-                file.write("%s\n" % transcription)
-                file.close()
+                tfile = open(transcription_path, "w+")
+                tfile.write("%s\n" % transcription)
+                tfile.close()
 
         file.close()
