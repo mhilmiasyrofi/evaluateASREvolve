@@ -1,96 +1,94 @@
 import pandas as pd
 import numpy as np
 import jiwer
+import re
+import string
+from normalise import normalise, tokenize_basic
 
-def min_edit_distance(word1:str, word2:str) -> int:
-    """Calculate minimum edit distance from two words
+def read_transcription(fpath):
+    file = open(fpath)
+    transcription = file.readline()
+    file.close()
 
-    Args:
-        word1: the first word
-        word2: the second word
-    
-    Returns:
-        The minimum edit character
+    return transcription
+
+
+def remove_hex(text):
     """
-
-    m = len(word1)
-    n = len(word2)
-
-    # Create a table to store results of subproblems
-    dp = [[0 for x in range(n + 1)] for x in range(m + 1)]
-
-    # Fill d[][] in bottom up manner
-    for i in range(m + 1):
-        for j in range(n + 1):
-
-            # If first string is empty, only option is to
-            # insert all characters of second string
-            if i == 0:
-                dp[i][j] = j    # Min. operations = j
-
-            # If second string is empty, only option is to
-            # remove all characters of second string
-            elif j == 0:
-                dp[i][j] = i    # Min. operations = i
-
-            # If last characters are same, ignore last char
-            # and recur for remaining string
-            elif word1[i-1] == word2[j-1]:
-                dp[i][j] = dp[i-1][j-1]
-
-            # If last character are different, consider all
-            # possibilities and find minimum
-            else:
-                dp[i][j] = 1 + min(dp[i][j-1],        # Insert
-                                   dp[i-1][j],        # Remove
-                                   dp[i-1][j-1])      # Replace
-
-    return dp[m][n]
-
-
-def error_word_detection(ground_truth: str, transcription:str):
-    errors = {}
-    tokens1 = ground_truth.split()
-    tokens2 = transcription.split()
-
+    Example: 
+    "\xe3\x80\x90Hello \xe3\x80\x91 World!"
+    """
+    res = []
     i = 0
-    j = 0
+    while i < len(text):
+        if text[i] == "\\" and i+1 < len(text) and text[i+1] == "x":
+            i += 3
+            res.append(" ")
+        else:
+            res.append(text[i])
+        i += 1
+    return "".join(res)
 
-    while i < len(tokens1) and j < len(tokens2):
+
+def remove_punctuation(text):
+    return text.translate(str.maketrans('', '', string.punctuation))
 
 
+def remove_multiple_whitespace(text):
+    """
+    remove multiple whitespace
+    it covers tabs and newlines also
+    """
+    return re.sub(' +', ' ', text.replace('\n', ' ').replace('\t', ' ')).strip()
 
-    return errors
 
-def preprocess_text(text: str) -> str :
+def normalize_text(text):
+    return " ".join(normalise(text, tokenizer=tokenize_basic, verbose=False))
 
-    text = jiwer.RemoveMultipleSpaces()(text)
-    text = jiwer.Strip()(text)
-    text = jiwer.ReduceToListOfListOfWords()(text)
+
+## TODO check missus and mister again
+def substitute_word(text):
+    """
+    word subsitution to make it consistent
+    """
+    words = text.split(" ")
+    preprocessed = []
+    for w in words:
+        substitution = ""
+        if w == "mister":
+            substitution = "mr"
+        elif w == "missus":
+            substitution = "mrs"
+        else:
+            substitution = w
+        preprocessed.append(substitution)
+    return " ".join(preprocessed)
+
+
+def preprocess_text(text):
+    text = text.lower()
+    text = remove_hex(text)
+    text = remove_punctuation(text)
     
+    ## it takes long time to normalize
+    ## skip this first
+    # try:
+    #     text = normalize_text(text)
+    # except:
+    #     text = ""
+    
+    text = remove_punctuation(text)
+    text = substitute_word(text)
+    text = jiwer.RemoveMultipleSpaces()(text)
+    text = jiwer.ExpandCommonEnglishContractions()(text)
+    text = jiwer.RemoveWhiteSpace(replace_by_space=True)(
+        text)  # must remove trailing space after it
+    text = jiwer.Strip()(text)
     return text
-
-def test_min_edit_distance():
-    print(min_edit_distance("ab", "ab"))
-    print(min_edit_distance("ab", "abc"))
-    print(min_edit_distance("bc", "abc"))
-    print(min_edit_distance("cab", "abc"))
-
-
-def test_error_word_detection():
-    ground_truth = "he began a confused complain against the wizard"
-    transcription = "he begin a confused complaint again the wizard"
-
-    ground_truth = preprocess_text(ground_truth)
-    transcription = preprocess_text(transcription)
-    errors = error_word_detection(ground_truth, transcription)
-    print(errors)
 
 
 if __name__ == "__main__" :
+    text = ""
+    preprocess_text(text)
 
-
-    # test_min_edit_distance() # test min edit distance function
-
-    test_error_word_detection() # test error detection function
-
+    
