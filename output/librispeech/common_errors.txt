@@ -1,0 +1,4073 @@
+Word: in
+	and        count: 44
+	an         count: 3
+	of         count: 2
+	am         count: 1
+	noting     count: 1
+	person     count: 1
+	on         count: 1
+	to         count: 1
+	involve    count: 1
+	living     count: 1
+	having     count: 1
+Word: a
+	the        count: 34
+	of         count: 4
+	and        count: 3
+	to         count: 2
+	or         count: 2
+	romola     count: 1
+	nottingham count: 1
+	not        count: 1
+	is         count: 1
+	her        count: 1
+	far        count: 1
+	are        count: 1
+	have       count: 1
+	for        count: 1
+	in         count: 1
+	plate      count: 1
+	man        count: 1
+	relate     count: 1
+	handsome   count: 1
+	happy      count: 1
+Word: and
+	in         count: 28
+	a          count: 3
+	as         count: 2
+	on         count: 2
+	cousin     count: 1
+	phranza    count: 1
+	i          count: 1
+	noting     count: 1
+	women      count: 1
+	hand       count: 1
+	torn       count: 1
+	worth      count: 1
+	nation     count: 1
+	join       count: 1
+	that       count: 1
+	but        count: 1
+	coming     count: 1
+	of         count: 1
+	when       count: 1
+	ranking    count: 1
+	then       count: 1
+	maiden     count: 1
+	leaped     count: 1
+	read       count: 1
+	massan     count: 1
+	wind       count: 1
+	loosen     count: 1
+	government count: 1
+	at         count: 1
+	to         count: 1
+	rockin     count: 1
+	wherein    count: 1
+Word: this
+	the        count: 21
+	spilling   count: 1
+	guess      count: 1
+	tennis     count: 1
+Word: an
+	and        count: 13
+	on         count: 1
+	the        count: 1
+	in         count: 1
+Word: too
+	to         count: 10
+	two        count: 3
+Word: two
+	to         count: 8
+	lotto      count: 1
+Word: is
+	as         count: 7
+	his        count: 4
+	was        count: 3
+	does       count: 2
+	pities     count: 1
+	savages    count: 1
+	misses     count: 1
+	places     count: 1
+	theres     count: 1
+	this       count: 1
+	whites     count: 1
+	schools    count: 1
+	he         count: 1
+	it         count: 1
+	apostles   count: 1
+	paris      count: 1
+	melas      count: 1
+	actors     count: 1
+Word: the
+	a          count: 7
+	to         count: 2
+	but        count: 2
+	me         count: 2
+	that       count: 1
+	at         count: 1
+	turn       count: 1
+	death      count: 1
+	common     count: 1
+	for        count: 1
+	tender     count: 1
+	consate    count: 1
+	were       count: 1
+	guilty     count: 1
+	gift       count: 1
+	apolline   count: 1
+	cared      count: 1
+	any        count: 1
+	their      count: 1
+	new        count: 1
+Word: uncas
+	once       count: 6
+	one        count: 1
+	on         count: 1
+Word: thee
+	the        count: 6
+	he         count: 4
+	they       count: 2
+	be         count: 1
+	bee        count: 1
+	you        count: 1
+	me         count: 1
+Word: of
+	a          count: 6
+	at         count: 2
+	in         count: 2
+	have       count: 2
+	show       count: 1
+	neighbor   count: 1
+	the        count: 1
+	top        count: 1
+	are        count: 1
+	for        count: 1
+	with       count: 1
+	note       count: 1
+	term       count: 1
+Word: anyone
+	one        count: 6
+Word: men
+	man        count: 6
+	then       count: 1
+Word: boolooroo
+	bolero     count: 6
+	booleroo   count: 4
+	butler     count: 1
+Word: has
+	had        count: 5
+	as         count: 2
+	is         count: 2
+	his        count: 1
+	tenters    count: 1
+	seats      count: 1
+Word: it
+	he         count: 5
+	i          count: 5
+	that       count: 3
+	to         count: 2
+	the        count: 2
+	at         count: 2
+	lasted     count: 1
+	of         count: 1
+	home       count: 1
+	there      count: 1
+	was        count: 1
+	and        count: 1
+	inspired   count: 1
+	inflicted  count: 1
+	its        count: 1
+	stuffed    count: 1
+	refined    count: 1
+Word: she
+	he         count: 5
+	the        count: 1
+Word: that
+	the        count: 5
+	at         count: 4
+	it         count: 2
+	a          count: 1
+	out        count: 1
+	there      count: 1
+	late       count: 1
+	than       count: 1
+	of         count: 1
+	but        count: 1
+	be         count: 1
+Word: his
+	a          count: 5
+	as         count: 2
+	has        count: 1
+	always     count: 1
+Word: color
+	colour     count: 5
+Word: its
+	it         count: 5
+	his        count: 1
+	the        count: 1
+Word: im
+	am         count: 5
+	i          count: 2
+	and        count: 1
+	on         count: 1
+	a          count: 1
+	may        count: 1
+	in         count: 1
+Word: o
+	of         count: 5
+	oh         count: 4
+	a          count: 3
+Word: silvia
+	sylvia     count: 5
+Word: timaeus
+	times      count: 5
+	as         count: 2
+	a          count: 1
+	to         count: 1
+Word: they
+	there      count: 4
+	the        count: 3
+	day        count: 1
+	that       count: 1
+Word: their
+	the        count: 4
+	her        count: 2
+	there      count: 2
+	father     count: 1
+Word: am
+	im         count: 4
+	and        count: 1
+Word: know
+	now        count: 4
+	knew       count: 1
+Word: at
+	and        count: 4
+	that       count: 2
+	of         count: 2
+	it         count: 1
+	stared     count: 1
+	in         count: 1
+	above      count: 1
+	a          count: 1
+	noted      count: 1
+	admit      count: 1
+	its        count: 1
+	had        count: 1
+Word: but
+	that       count: 4
+	the        count: 3
+	what       count: 1
+	unlike     count: 1
+	do         count: 1
+	pet        count: 1
+Word: fitzooth
+	fitteth    count: 4
+	tooth      count: 1
+	finot      count: 1
+	out        count: 1
+Word: gamewell
+	well       count: 4
+	will       count: 3
+Word: soames
+	solmes     count: 4
+	sam        count: 1
+Word: our
+	a          count: 4
+	her        count: 2
+	or         count: 1
+	art        count: 1
+	are        count: 1
+	before     count: 1
+Word: have
+	had        count: 4
+	ive        count: 2
+	has        count: 2
+	weve       count: 1
+	lester     count: 1
+	half       count: 1
+	of         count: 1
+	if         count: 1
+Word: seems
+	seemed     count: 4
+Word: ive
+	have       count: 4
+	i          count: 1
+Word: hes
+	is         count: 4
+Word: eye
+	i          count: 4
+Word: bartley
+	partly     count: 4
+	bartle     count: 1
+Word: edison
+	addison    count: 4
+	son        count: 2
+	edisons    count: 1
+	alison     count: 1
+Word: neverbend
+	been       count: 4
+Word: her
+	a          count: 3
+	the        count: 2
+	heard      count: 2
+	he         count: 1
+	bitter     count: 1
+	your       count: 1
+	for        count: 1
+	later      count: 1
+Word: from
+	for        count: 3
+	calico     count: 1
+Word: your
+	you        count: 3
+	nor        count: 1
+	was        count: 1
+	her        count: 1
+	oidor      count: 1
+	the        count: 1
+	are        count: 1
+Word: theater
+	theatre    count: 3
+Word: brake
+	break      count: 3
+Word: or
+	of         count: 3
+	were       count: 3
+	and        count: 2
+	for        count: 2
+	door       count: 1
+	are        count: 1
+	mr         count: 1
+	cater      count: 1
+	her        count: 1
+	the        count: 1
+	halter     count: 1
+Word: thy
+	the        count: 3
+	they       count: 1
+	my         count: 1
+Word: man
+	men        count: 3
+Word: are
+	were       count: 3
+	or         count: 2
+	a          count: 1
+	our        count: 1
+	their      count: 1
+	where      count: 1
+	your       count: 1
+	all        count: 1
+	solemn     count: 1
+	work       count: 1
+Word: bannister
+	banister   count: 3
+Word: ye
+	he         count: 3
+	you        count: 2
+	me         count: 1
+Word: madam
+	madame     count: 3
+Word: popham
+	pope       count: 3
+	as         count: 1
+Word: turn
+	turned     count: 3
+	me         count: 1
+Word: aunt
+	and        count: 3
+Word: youll
+	you        count: 3
+	will       count: 1
+Word: everyone
+	one        count: 3
+Word: well
+	while      count: 3
+	will       count: 2
+	for        count: 1
+	company    count: 1
+Word: hollan
+	holland    count: 3
+Word: wylder
+	wilder     count: 3
+	the        count: 1
+	milder     count: 1
+Word: towards
+	toward     count: 3
+	for        count: 1
+Word: waste
+	was        count: 3
+Word: margolotte
+	margaret   count: 3
+	margarot   count: 1
+	margaloth  count: 1
+Word: grey
+	gray       count: 3
+Word: today
+	day        count: 3
+Word: feeling
+	filling    count: 3
+Word: practise
+	practice   count: 3
+Word: rodolfo
+	rudolf     count: 2
+	he         count: 2
+	rodolphe   count: 1
+	rudolph    count: 1
+	doleful    count: 1
+Word: than
+	that       count: 2
+	then       count: 2
+	the        count: 1
+	in         count: 1
+	and        count: 1
+	men        count: 1
+	school     count: 1
+Word: were
+	are        count: 2
+	would      count: 1
+	a          count: 1
+	he         count: 1
+	was        count: 1
+	where      count: 1
+Word: estafania
+	estefania  count: 2
+	donovan    count: 1
+Word: when
+	one        count: 2
+	with       count: 1
+	which      count: 1
+	and        count: 1
+Word: less
+	last       count: 2
+	dolefullest count: 1
+Word: hear
+	here       count: 2
+	see        count: 1
+	her        count: 1
+Word: mists
+	mist       count: 2
+Word: sire
+	sir        count: 2
+Word: colored
+	coloured   count: 2
+Word: seem
+	seemed     count: 2
+Word: to
+	into       count: 2
+	dame       count: 1
+	rent       count: 1
+	he         count: 1
+	that       count: 1
+	a          count: 1
+	think      count: 1
+	west       count: 1
+	need       count: 1
+	saint      count: 1
+	through    count: 1
+	ten        count: 1
+	till       count: 1
+	the        count: 1
+Word: you
+	he         count: 2
+	i          count: 2
+	of         count: 1
+	few        count: 1
+	she        count: 1
+Word: oh
+	ah         count: 2
+	she        count: 1
+	a          count: 1
+	o          count: 1
+	how        count: 1
+	ill        count: 1
+Word: de
+	the        count: 2
+	detonation count: 1
+	mate       count: 1
+	mr         count: 1
+Word: n
+	and        count: 2
+	even       count: 1
+Word: will
+	well       count: 2
+	antisell   count: 1
+	ill        count: 1
+	would      count: 1
+	were       count: 1
+Word: into
+	to         count: 2
+	in         count: 2
+	the        count: 2
+	and        count: 1
+	fronto     count: 1
+Word: did
+	to         count: 2
+	dead       count: 2
+	had        count: 1
+Word: liked
+	like       count: 2
+Word: was
+	as         count: 2
+	mittens    count: 1
+	is         count: 1
+	are        count: 1
+	probably   count: 1
+	at         count: 1
+	batwas     count: 1
+Word: ay
+	i          count: 2
+Word: he
+	any        count: 2
+	you        count: 2
+	they       count: 1
+	has        count: 1
+	we         count: 1
+Word: queen
+	clean      count: 2
+Word: then
+	and        count: 2
+	than       count: 1
+	it         count: 1
+	but        count: 1
+	lived      count: 1
+	end        count: 1
+	the        count: 1
+Word: honor
+	honour     count: 2
+Word: watched
+	watch      count: 2
+	britonised count: 1
+Word: him
+	them       count: 2
+	lastingham count: 1
+	turkwel    count: 1
+	pain       count: 1
+	tend       count: 1
+	an         count: 1
+Word: sang
+	saying     count: 2
+Word: read
+	red        count: 2
+Word: up
+	a          count: 2
+	that       count: 1
+	papers     count: 1
+	of         count: 1
+Word: emil
+	amiel      count: 2
+	am         count: 1
+Word: on
+	in         count: 2
+	town       count: 1
+	any        count: 1
+	a          count: 1
+Word: youre
+	your       count: 2
+	are        count: 1
+	or         count: 1
+Word: shes
+	is         count: 2
+	she        count: 1
+Word: holmes
+	home       count: 2
+	homes      count: 1
+Word: if
+	a          count: 2
+	in         count: 1
+	it         count: 1
+	at         count: 1
+	as         count: 1
+Word: facts
+	fact       count: 2
+Word: someone
+	one        count: 2
+Word: servant
+	servants   count: 2
+Word: threw
+	through    count: 2
+Word: neighbors
+	neighbours count: 2
+Word: sif
+	if         count: 2
+Word: sometime
+	time       count: 2
+Word: jago
+	ago        count: 2
+	mr         count: 1
+	too        count: 1
+	oo         count: 1
+Word: andella
+	della      count: 2
+	and        count: 1
+	ella       count: 1
+Word: parlor
+	parlour    count: 2
+Word: chaise
+	chase      count: 2
+Word: psalm
+	sum        count: 2
+Word: though
+	then       count: 2
+	those      count: 1
+	the        count: 1
+	but        count: 1
+Word: others
+	other      count: 2
+Word: round
+	around     count: 2
+Word: olives
+	alive      count: 2
+	its        count: 1
+Word: whittaws
+	widows     count: 2
+Word: munny
+	money      count: 2
+Word: meet
+	met        count: 2
+	meat       count: 1
+Word: mornin
+	morning    count: 2
+Word: dorcas
+	doris      count: 2
+Word: lake
+	like       count: 2
+	lee        count: 1
+Word: radie
+	ready      count: 2
+Word: aye
+	i          count: 2
+Word: presents
+	present    count: 2
+Word: account
+	count      count: 2
+Word: wholly
+	holy       count: 2
+	holly      count: 1
+Word: zoofs
+	bensefs    count: 2
+Word: thel
+	fell       count: 2
+	they       count: 1
+	thou       count: 1
+	fall       count: 1
+Word: vales
+	veils      count: 2
+	fails      count: 1
+Word: ah
+	a          count: 2
+Word: holy
+	wholly     count: 2
+Word: ojo
+	jo         count: 2
+	joe        count: 1
+	odo        count: 1
+	to         count: 1
+	he         count: 1
+Word: unc
+	on         count: 2
+	one        count: 1
+	a          count: 1
+Word: colors
+	colours    count: 2
+Word: slang
+	slaying    count: 2
+Word: favorite
+	favourite  count: 2
+Word: ichthyosaurus
+	sores      count: 2
+Word: tonight
+	night      count: 2
+Word: cresswell
+	creswell   count: 2
+	criswell   count: 1
+Word: zora
+	or         count: 2
+	so         count: 1
+Word: counselled
+	counseled  count: 2
+Word: solon
+	solemn     count: 2
+	sullen     count: 1
+Word: remain
+	remained   count: 2
+Word: tall
+	all        count: 2
+Word: tis
+	is         count: 2
+	just       count: 1
+Word: mainhall
+	hold       count: 2
+	hall       count: 1
+	manhole    count: 1
+Word: hilda
+	held       count: 2
+	the        count: 1
+	to         count: 1
+Word: hildas
+	his        count: 2
+Word: plant
+	plan       count: 2
+	hollanden  count: 1
+Word: installed
+	stalled    count: 2
+	amaranta   count: 1
+Word: anything
+	thing      count: 2
+Word: electrolytic
+	electric   count: 2
+Word: hath
+	have       count: 2
+Word: battleax
+	axe        count: 2
+	battle     count: 1
+	ax         count: 1
+	ada        count: 1
+Word: ferdinando
+	fernando   count: 2
+	unsevered  count: 1
+Word: britannula
+	ula        count: 2
+	britain    count: 1
+Word: another
+	other      count: 2
+Word: marriage
+	colesberg  count: 2
+	pomaria    count: 1
+Word: hallo
+	hello      count: 2
+Word: hidalgo
+	go         count: 1
+Word: befal
+	befall     count: 1
+Word: with
+	were       count: 1
+	the        count: 1
+	fell       count: 1
+	and        count: 1
+	would      count: 1
+	was        count: 1
+	which      count: 1
+	to         count: 1
+Word: maid
+	made       count: 1
+Word: ravishing
+	ravishingly count: 1
+Word: leocadia
+	acadia     count: 1
+	the        count: 1
+	locate     count: 1
+	lucile     count: 1
+Word: woe
+	will       count: 1
+	we         count: 1
+Word: leocadias
+	alcaeus    count: 1
+	locates    count: 1
+Word: theirs
+	their      count: 1
+	bears      count: 1
+Word: safe
+	locative   count: 1
+Word: me
+	duhesme    count: 1
+	men        count: 1
+	someone    count: 1
+	operate    count: 1
+Word: bed
+	bad        count: 1
+Word: dear
+	your       count: 1
+	lady       count: 1
+	sister     count: 1
+Word: colour
+	color      count: 1
+Word: hangings
+	hanging    count: 1
+Word: who
+	with       count: 1
+	he         count: 1
+	me         count: 1
+	oh         count: 1
+Word: tears
+	tear       count: 1
+Word: leocadi
+	leucadia   count: 1
+Word: passed
+	past       count: 1
+Word: blessings
+	blessing   count: 1
+Word: luis
+	louis      count: 1
+Word: during
+	drawing    count: 1
+Word: dona
+	don        count: 1
+Word: as
+	was        count: 1
+	a          count: 1
+	is         count: 1
+	he         count: 1
+	felt       count: 1
+	at         count: 1
+	roller     count: 1
+	extremist  count: 1
+	tolling    count: 1
+	folios     count: 1
+	peeples    count: 1
+	to         count: 1
+	take       count: 1
+Word: gentlewoman
+	woman      count: 1
+Word: pity
+	six        count: 1
+Word: swoon
+	soon       count: 1
+Word: great
+	quit       count: 1
+	grateful   count: 1
+Word: senor
+	sir        count: 1
+Word: son
+	sun        count: 1
+Word: gentleman
+	gentlemen  count: 1
+Word: remained
+	remaining  count: 1
+Word: utter
+	artevelde  count: 1
+Word: bewilderment
+	men        count: 1
+Word: sought
+	thought    count: 1
+Word: abduction
+	adoption   count: 1
+Word: carried
+	doltaire   count: 1
+	carriage   count: 1
+Word: disgust
+	discuss    count: 1
+Word: bear
+	be         count: 1
+Word: yoke
+	you        count: 1
+Word: imposed
+	impose     count: 1
+Word: entranced
+	trance     count: 1
+Word: near
+	there      count: 1
+Word: bride
+	bright     count: 1
+Word: signs
+	locations  count: 1
+Word: brought
+	broad      count: 1
+	broke      count: 1
+Word: rodolfos
+	and        count: 1
+Word: arms
+	reaffirms  count: 1
+Word: senora
+	signora    count: 1
+Word: surprised
+	surprise   count: 1
+Word: hawkeye
+	hay        count: 1
+	and        count: 1
+	ye         count: 1
+Word: balaams
+	baalams    count: 1
+Word: bears
+	bear       count: 1
+Word: uncasing
+	casing     count: 1
+Word: mourn
+	mourned    count: 1
+Word: hymn
+	him        count: 1
+Word: returned
+	return     count: 1
+	turn       count: 1
+Word: assent
+	ascent     count: 1
+Word: hint
+	hand       count: 1
+Word: purposed
+	purpose    count: 1
+Word: withes
+	with       count: 1
+Word: david
+	dave       count: 1
+Word: composser
+	composer   count: 1
+Word: shoutings
+	shouting   count: 1
+Word: scent
+	sin        count: 1
+Word: hurons
+	herons     count: 1
+Word: travelers
+	travellers count: 1
+Word: scaroons
+	scorns     count: 1
+Word: crossed
+	recrossed  count: 1
+Word: chingachgook
+	go         count: 1
+Word: clew
+	clue       count: 1
+Word: offals
+	awful      count: 1
+Word: courant
+	aaron      count: 1
+Word: courtiers
+	cities     count: 1
+Word: whereupon
+	upon       count: 1
+Word: aignan
+	anon       count: 1
+Word: took
+	fullerton  count: 1
+	look       count: 1
+Word: louis
+	louise     count: 1
+Word: majestys
+	is         count: 1
+Word: plan
+	planned    count: 1
+Word: toilette
+	toilet     count: 1
+Word: queens
+	queen      count: 1
+Word: dias
+	dais       count: 1
+Word: spring
+	lessing    count: 1
+Word: dance
+	hands      count: 1
+Word: shaped
+	shape      count: 1
+Word: soar
+	sore       count: 1
+Word: ballet
+	valley     count: 1
+Word: acknowledgement
+	acknowledgment count: 1
+Word: bedimmed
+	damned     count: 1
+Word: comte
+	count      count: 1
+Word: what
+	well       count: 1
+	let        count: 1
+	with       count: 1
+	it         count: 1
+	while      count: 1
+Word: valliere
+	labadie    count: 1
+	valley     count: 1
+	lovelier   count: 1
+Word: la
+	the        count: 1
+	hall       count: 1
+Word: poetess
+	poetic     count: 1
+Word: tonnay
+	tony       count: 1
+	thinks     count: 1
+Word: charente
+	cheat      count: 1
+	tunisian   count: 1
+	detonation count: 1
+	it         count: 1
+	tennyson   count: 1
+Word: look
+	lucky      count: 1
+	the        count: 1
+	then       count: 1
+Word: yonder
+	under      count: 1
+Word: thinks
+	the        count: 1
+	thing      count: 1
+Word: athenais
+	day        count: 1
+	one        count: 1
+Word: kings
+	as         count: 1
+Word: madames
+	madame     count: 1
+Word: mounted
+	mountain   count: 1
+Word: fete
+	pet        count: 1
+	fat        count: 1
+	fight      count: 1
+Word: pheasant
+	peasant    count: 1
+Word: whilst
+	will       count: 1
+Word: i
+	stay       count: 1
+	am         count: 1
+	way        count: 1
+Word: wear
+	where      count: 1
+Word: montfichets
+	moniche    count: 1
+Word: neer
+	never      count: 1
+Word: scutcheon
+	and        count: 1
+Word: checked
+	ejected    count: 1
+Word: gamewells
+	gamels     count: 1
+Word: stuteley
+	stately    count: 1
+	stoutly    count: 1
+	instantly  count: 1
+	stutely    count: 1
+Word: thereafter
+	after      count: 1
+Word: warrenton
+	in         count: 1
+	warrington count: 1
+	and        count: 1
+Word: had
+	it         count: 1
+	is         count: 1
+	have       count: 1
+	at         count: 1
+	and        count: 1
+Word: mouth
+	flipout    count: 1
+Word: fitzooths
+	fifth      count: 1
+Word: ladder
+	ter        count: 1
+Word: vault
+	fault      count: 1
+Word: warrentons
+	warrenton  count: 1
+	and        count: 1
+Word: masters
+	master     count: 1
+Word: lanthorn
+	lantern    count: 1
+Word: enquired
+	inquired   count: 1
+Word: should
+	would      count: 1
+	lashed     count: 1
+Word: nottingham
+	him        count: 1
+	and        count: 1
+	again      count: 1
+	in         count: 1
+Word: answered
+	entered    count: 1
+Word: robin
+	and        count: 1
+Word: geoffreys
+	jeffreys   count: 1
+Word: claims
+	claim      count: 1
+Word: pleasance
+	pleasant   count: 1
+Word: geoffrey
+	jeffrey    count: 1
+Word: regained
+	regain     count: 1
+Word: mummeries
+	memories   count: 1
+Word: sir
+	desire     count: 1
+	prayer     count: 1
+	centres    count: 1
+Word: rioting
+	righting   count: 1
+Word: said
+	at         count: 1
+	and        count: 1
+	argosie    count: 1
+	sit        count: 1
+	had        count: 1
+	immersed   count: 1
+Word: cumberlands
+	cumberland count: 1
+Word: citizens
+	she        count: 1
+	tenacities count: 1
+Word: cried
+	monasteries count: 1
+	ordinary   count: 1
+Word: sullen
+	suonare    count: 1
+Word: apprentice
+	ice        count: 1
+	prentice   count: 1
+Word: patience
+	patient    count: 1
+Word: still
+	a          count: 1
+Word: zest
+	heartiest  count: 1
+Word: montfichet
+	monkish    count: 1
+	moniche    count: 1
+	office     count: 1
+	gave       count: 1
+	she        count: 1
+	malice     count: 1
+Word: few
+	you        count: 1
+Word: way
+	weight     count: 1
+	or         count: 1
+Word: be
+	become     count: 1
+	of         count: 1
+	they       count: 1
+	much       count: 1
+Word: comrades
+	red        count: 1
+Word: called
+	monica     count: 1
+	corneille  count: 1
+Word: faintly
+	monkishly  count: 1
+Word: monceux
+	marcel     count: 1
+Word: plucking
+	pluck      count: 1
+Word: sleeve
+	steve      count: 1
+Word: maids
+	maid       count: 1
+Word: alone
+	broughton  count: 1
+Word: wine
+	wind       count: 1
+Word: lad
+	led        count: 1
+Word: leech
+	let        count: 1
+	lit        count: 1
+Word: goliath
+	have       count: 1
+Word: makes
+	made       count: 1
+	mixed      count: 1
+Word: nearer
+	near       count: 1
+Word: didnt
+	did        count: 1
+	being      count: 1
+	dont       count: 1
+Word: hers
+	he         count: 1
+Word: sprague
+	sampiero   count: 1
+Word: been
+	spin       count: 1
+	i          count: 1
+	then       count: 1
+	and        count: 1
+Word: queried
+	clear      count: 1
+Word: joyce
+	choice     count: 1
+Word: worry
+	in         count: 1
+Word: besides
+	emphasises count: 1
+	des        count: 1
+Word: id
+	and        count: 1
+	had        count: 1
+	i          count: 1
+Word: over
+	desaver    count: 1
+	michael    count: 1
+Word: good
+	did        count: 1
+	catalogued count: 1
+	could      count: 1
+Word: cyn
+	in         count: 1
+Word: cleaning
+	claiming   count: 1
+Word: unobserved
+	observed   count: 1
+Word: broom
+	whisker    count: 1
+Word: lure
+	lower      count: 1
+Word: friskily
+	briskly    count: 1
+Word: cozier
+	cosier     count: 1
+Word: now
+	well       count: 1
+	know       count: 1
+	not        count: 1
+Word: lets
+	it         count: 1
+	that       count: 1
+Word: dust
+	just       count: 1
+	does       count: 1
+Word: illumination
+	lumination count: 1
+Word: usual
+	dominates  count: 1
+Word: greatest
+	behaves    count: 1
+Word: seized
+	seize      count: 1
+Word: scurried
+	scurry     count: 1
+Word: kaffar
+	caper      count: 1
+	carter     count: 1
+	casher     count: 1
+Word: appeared
+	appear     count: 1
+	concealed  count: 1
+Word: wrist
+	risk       count: 1
+Word: voltaires
+	tears      count: 1
+Word: discoloured
+	discolored count: 1
+Word: kaffars
+	caffers    count: 1
+	carters    count: 1
+Word: voltaire
+	chair      count: 1
+Word: left
+	laughed    count: 1
+Word: forwarded
+	poet       count: 1
+Word: plentiful
+	paintable  count: 1
+Word: france
+	friends    count: 1
+Word: before
+	for        count: 1
+	labor      count: 1
+Word: shoulders
+	shoulder   count: 1
+Word: mistaken
+	foresaken  count: 1
+Word: raoul
+	roll       count: 1
+	ralph      count: 1
+Word: added
+	add        count: 1
+Word: movement
+	moment     count: 1
+	pikemen    count: 1
+Word: countrys
+	country    count: 1
+Word: detect
+	route      count: 1
+Word: starlit
+	starlett   count: 1
+Word: intersected
+	second     count: 1
+Word: moonbeams
+	beams      count: 1
+Word: flagstones
+	stones     count: 1
+Word: manicamp
+	manica     count: 1
+Word: new
+	mayenne    count: 1
+Word: skillful
+	skilful    count: 1
+Word: conspicuous
+	conspicious count: 1
+Word: preach
+	preached   count: 1
+Word: bul
+	bulbul     count: 1
+Word: nights
+	outfit     count: 1
+Word: science
+	inapposite count: 1
+	since      count: 1
+Word: room
+	anteroom   count: 1
+Word: where
+	for        count: 1
+	were       count: 1
+	over       count: 1
+Word: advised
+	philippinitis count: 1
+Word: settle
+	settled    count: 1
+Word: fees
+	beads      count: 1
+Word: astor
+	after      count: 1
+Word: step
+	set        count: 1
+	doorstep   count: 1
+Word: dorking
+	the        count: 1
+Word: grapevine
+	vine       count: 1
+Word: gringo
+	grandowter count: 1
+Word: turning
+	ing        count: 1
+Word: philip
+	i          count: 1
+Word: can
+	could      count: 1
+Word: ways
+	was        count: 1
+Word: margaret
+	market     count: 1
+Word: does
+	this       count: 1
+Word: practice
+	practise   count: 1
+Word: known
+	not        count: 1
+Word: patients
+	patience   count: 1
+Word: enthusiasts
+	enthusiast count: 1
+Word: mausoleum
+	muslim     count: 1
+Word: rooms
+	equations  count: 1
+Word: philadelphian
+	philadelphia count: 1
+Word: girard
+	gerard     count: 1
+Word: mint
+	men        count: 1
+Word: yearly
+	early      count: 1
+Word: shops
+	shop       count: 1
+Word: germantown
+	town       count: 1
+Word: leaves
+	stirless   count: 1
+Word: crush
+	crash      count: 1
+Word: sleek
+	sleep      count: 1
+Word: line
+	lie        count: 1
+Word: humph
+	when       count: 1
+Word: poos
+	kickapoos  count: 1
+Word: thees
+	these      count: 1
+Word: knows
+	nose       count: 1
+Word: veiled
+	bailed     count: 1
+Word: pinioned
+	pinion     count: 1
+Word: rust
+	rest       count: 1
+Word: inaction
+	action     count: 1
+Word: useless
+	useful     count: 1
+Word: placid
+	placed     count: 1
+Word: slowly
+	polly      count: 1
+Word: puffy
+	puppy      count: 1
+Word: orchard
+	they       count: 1
+Word: sparkling
+	restoring  count: 1
+Word: mowed
+	mode       count: 1
+	not        count: 1
+Word: wet
+	way        count: 1
+Word: season
+	decent     count: 1
+	picnics    count: 1
+Word: exciting
+	reciting   count: 1
+Word: see
+	the        count: 1
+Word: arent
+	are        count: 1
+Word: scythe
+	side       count: 1
+	sigh       count: 1
+Word: learn
+	learned    count: 1
+Word: marie
+	mary       count: 1
+Word: branch
+	ranch      count: 1
+Word: caught
+	thought    count: 1
+	got        count: 1
+Word: raindrops
+	orano      count: 1
+Word: shabata
+	shibata    count: 1
+Word: lindens
+	man        count: 1
+Word: coral
+	curl       count: 1
+Word: staid
+	stay       count: 1
+Word: teachery
+	teacher    count: 1
+Word: wasnt
+	in         count: 1
+	and        count: 1
+Word: fell
+	fall       count: 1
+	benefit    count: 1
+Word: alexandra
+	i          count: 1
+	alexander  count: 1
+Word: hopes
+	attended   count: 1
+Word: prayed
+	pray       count: 1
+Word: since
+	said       count: 1
+Word: bergson
+	and        count: 1
+Word: marks
+	marked     count: 1
+Word: barns
+	barn       count: 1
+Word: gray
+	grey       count: 1
+Word: coaxed
+	pokes      count: 1
+Word: lous
+	loose      count: 1
+Word: my
+	mammy      count: 1
+	a          count: 1
+	by         count: 1
+Word: hedges
+	his        count: 1
+Word: thereabouts
+	about      count: 1
+Word: among
+	man        count: 1
+Word: rich
+	richard    count: 1
+Word: exotics
+	antics     count: 1
+Word: turner
+	at         count: 1
+Word: first
+	polybus    count: 1
+Word: kinder
+	kind       count: 1
+Word: phronsie
+	franz      count: 1
+	france     count: 1
+Word: van
+	fan        count: 1
+	man        count: 1
+Word: opened
+	open       count: 1
+Word: isnt
+	is         count: 1
+Word: fuzzy
+	bushy      count: 1
+Word: jasper
+	chapter    count: 1
+Word: must
+	i          count: 1
+	enormous   count: 1
+Word: there
+	the        count: 1
+	their      count: 1
+	it         count: 1
+Word: laughed
+	lapped     count: 1
+	left       count: 1
+Word: sight
+	side       count: 1
+	inside     count: 1
+Word: jaspers
+	jasper     count: 1
+Word: face
+	space      count: 1
+Word: twasnt
+	wasnt      count: 1
+Word: rightly
+	pity       count: 1
+Word: gilchrists
+	gilchrist  count: 1
+Word: clay
+	clear      count: 1
+Word: doughy
+	dough      count: 1
+Word: writhing
+	writing    count: 1
+Word: no
+	and        count: 1
+	know       count: 1
+	now        count: 1
+Word: injustice
+	justice    count: 1
+Word: aware
+	where      count: 1
+Word: uncontrollable
+	uncontrol  count: 1
+Word: agitation
+	legation   count: 1
+Word: scrapbooks
+	books      count: 1
+Word: alternative
+	on         count: 1
+Word: lead
+	lad        count: 1
+Word: pane
+	pain       count: 1
+Word: sheet
+	she        count: 1
+Word: would
+	will       count: 1
+	ever       count: 1
+Word: watson
+	an         count: 1
+Word: halloa
+	what       count: 1
+Word: whats
+	is         count: 1
+Word: out
+	houdetot   count: 1
+Word: everything
+	thing      count: 1
+Word: stair
+	star       count: 1
+Word: dare
+	do         count: 1
+Word: prynne
+	print      count: 1
+Word: honourable
+	honorable  count: 1
+Word: caused
+	cause      count: 1
+Word: wrought
+	brought    count: 1
+Word: pearl
+	all        count: 1
+Word: knot
+	nod        count: 1
+Word: lattice
+	latest     count: 1
+Word: yea
+	yet        count: 1
+Word: fair
+	fares      count: 1
+	is         count: 1
+Word: estate
+	state      count: 1
+	realestate count: 1
+Word: armour
+	armor      count: 1
+Word: breastplate
+	plate      count: 1
+Word: immature
+	inventor   count: 1
+Word: bull
+	ball       count: 1
+Word: mortals
+	morals     count: 1
+Word: finally
+	finely     count: 1
+Word: exist
+	coexist    count: 1
+Word: impressed
+	impress    count: 1
+Word: immortality
+	mortality  count: 1
+Word: addressed
+	address    count: 1
+Word: ruled
+	rolled     count: 1
+Word: evoked
+	vote       count: 1
+Word: harald
+	harold     count: 1
+Word: olaf
+	off        count: 1
+	love       count: 1
+Word: oars
+	wars       count: 1
+Word: carved
+	of         count: 1
+Word: hiss
+	his        count: 1
+Word: foes
+	first      count: 1
+Word: curved
+	carved     count: 1
+Word: raised
+	raise      count: 1
+Word: uninvited
+	invited    count: 1
+Word: full
+	fall       count: 1
+Word: yes
+	as         count: 1
+	asked      count: 1
+Word: thralls
+	three      count: 1
+	thrills    count: 1
+Word: loads
+	vascular   count: 1
+Word: mouths
+	mouth      count: 1
+Word: sent
+	set        count: 1
+Word: hakon
+	harken     count: 1
+Word: friend
+	in         count: 1
+	frank      count: 1
+	brand      count: 1
+Word: named
+	name       count: 1
+Word: nine
+	none       count: 1
+	not        count: 1
+Word: thorleif
+	pole       count: 1
+Word: itch
+	hate       count: 1
+Word: here
+	there      count: 1
+	bencher    count: 1
+Word: ease
+	heartsease count: 1
+Word: valhalla
+	all        count: 1
+Word: us
+	points     count: 1
+	pauses     count: 1
+	maccabeus  count: 1
+	a          count: 1
+	earth      count: 1
+Word: coasts
+	coast      count: 1
+Word: viking
+	faking     count: 1
+Word: thorkel
+	on         count: 1
+	tore       count: 1
+Word: let
+	the        count: 1
+Word: go
+	tengo      count: 1
+Word: thrall
+	throw      count: 1
+Word: masterly
+	master     count: 1
+Word: confess
+	confessed  count: 1
+Word: cracked
+	crack      count: 1
+Word: meadowcroft
+	acrost     count: 1
+Word: newcomer
+	comer      count: 1
+Word: lefrank
+	pilfering  count: 1
+Word: overlooker
+	overlook   count: 1
+Word: mr
+	or         count: 1
+	this       count: 1
+Word: moved
+	move       count: 1
+Word: meant
+	met        count: 1
+Word: agreeable
+	greeable   count: 1
+Word: naomi
+	now        count: 1
+	them       count: 1
+	only       count: 1
+	men        count: 1
+Word: doubtingly
+	meaningly  count: 1
+Word: meadowcrofts
+	medicos    count: 1
+Word: wheeled
+	held       count: 1
+	willed     count: 1
+Word: smoke
+	spoke      count: 1
+Word: john
+	johnny     count: 1
+Word: slunk
+	sunk       count: 1
+Word: discussed
+	discuss    count: 1
+Word: dumbfounded
+	founded    count: 1
+Word: knife
+	jackknife  count: 1
+	night      count: 1
+Word: anders
+	annes      count: 1
+	ander      count: 1
+Word: through
+	threw      count: 1
+Word: wherever
+	ever       count: 1
+Word: decanters
+	cantors    count: 1
+Word: cap
+	cat        count: 1
+Word: della
+	bella      count: 1
+Word: delia
+	bella      count: 1
+Word: visit
+	roseleaves count: 1
+Word: rosalie
+	rosely     count: 1
+	rosily     count: 1
+Word: playthings
+	things     count: 1
+Word: put
+	but        count: 1
+	teapot     count: 1
+Word: thing
+	anything   count: 1
+Word: rebukes
+	rebuke     count: 1
+Word: by
+	my         count: 1
+	stan       count: 1
+	but        count: 1
+	simply     count: 1
+Word: humor
+	humour     count: 1
+Word: upon
+	on         count: 1
+	felon      count: 1
+Word: not
+	cannot     count: 1
+	and        count: 1
+	alameda    count: 1
+Word: impresses
+	impressed  count: 1
+Word: guard
+	bar        count: 1
+Word: once
+	one        count: 1
+Word: weakened
+	weaken     count: 1
+Word: while
+	well       count: 1
+	one        count: 1
+	old        count: 1
+Word: covenanters
+	eminences  count: 1
+Word: measures
+	permeates  count: 1
+Word: vassals
+	vessels    count: 1
+Word: northwards
+	northward  count: 1
+Word: huntley
+	huntly     count: 1
+Word: reenforcements
+	reinforcements count: 1
+Word: atholemen
+	men        count: 1
+Word: macdonalds
+	macdonald  count: 1
+Word: argyles
+	giles      count: 1
+Word: argyle
+	guile      count: 1
+Word: innerlochy
+	lucky      count: 1
+	interlock  count: 1
+Word: affrightened
+	frightened count: 1
+Word: independents
+	independent count: 1
+Word: unwarily
+	wearily    count: 1
+Word: valor
+	valour     count: 1
+Word: tory
+	had        count: 1
+Word: dissent
+	descent    count: 1
+Word: southey
+	south      count: 1
+	salty      count: 1
+Word: senseless
+	this       count: 1
+Word: pray
+	his        count: 1
+Word: sorrowfully
+	sorely     count: 1
+Word: b
+	see        count: 1
+Word: southeys
+	these      count: 1
+Word: mine
+	mind       count: 1
+Word: deed
+	indeed     count: 1
+Word: times
+	midinettes count: 1
+Word: hotbed
+	bed        count: 1
+Word: word
+	work       count: 1
+	articulator count: 1
+Word: anne
+	ann        count: 1
+Word: natures
+	nature     count: 1
+Word: shrivelled
+	shrivel    count: 1
+Word: without
+	who        count: 1
+Word: neighbour
+	neighbor   count: 1
+Word: druggists
+	drug       count: 1
+Word: haworth
+	how        count: 1
+Word: households
+	household  count: 1
+Word: untouched
+	touched    count: 1
+Word: weight
+	way        count: 1
+Word: just
+	is         count: 1
+Word: anxiety
+	bingety    count: 1
+	fancies    count: 1
+Word: annes
+	and        count: 1
+Word: holidays
+	holiday    count: 1
+Word: harmon
+	harman     count: 1
+	harm       count: 1
+	baron      count: 1
+Word: hearthstones
+	stones     count: 1
+Word: bill
+	bell       count: 1
+	i          count: 1
+Word: natty
+	with       count: 1
+Word: rufus
+	robes      count: 1
+Word: lallie
+	lowly      count: 1
+Word: thurston
+	thurstane  count: 1
+Word: tibi
+	be         count: 1
+Word: splendet
+	splendid   count: 1
+Word: olive
+	i          count: 1
+	at         count: 1
+Word: programme
+	program    count: 1
+Word: carey
+	carried    count: 1
+	carry      count: 1
+Word: helped
+	help       count: 1
+Word: sandwiches
+	samwiches  count: 1
+Word: doughnuts
+	dont       count: 1
+Word: felt
+	fell       count: 1
+Word: myself
+	madamasel  count: 1
+	stores     count: 1
+Word: couldnt
+	popgood    count: 1
+Word: mend
+	man        count: 1
+	men        count: 1
+Word: enough
+	blowing    count: 1
+	bengough   count: 1
+Word: bushel
+	hominibus  count: 1
+Word: eleven
+	leavening  count: 1
+Word: evenins
+	spot       count: 1
+Word: puttin
+	in         count: 1
+Word: why
+	my         count: 1
+Word: ears
+	corners    count: 1
+Word: fill
+	till       count: 1
+Word: casts
+	cast       count: 1
+Word: sandford
+	sanford    count: 1
+Word: warranted
+	warned     count: 1
+Word: entrusting
+	interesting count: 1
+Word: vivacity
+	vanity     count: 1
+Word: milners
+	millers    count: 1
+Word: refined
+	refine     count: 1
+Word: militated
+	mitigated  count: 1
+Word: jail
+	and        count: 1
+Word: thought
+	all        count: 1
+	though     count: 1
+	bethought  count: 1
+Word: gentle
+	storage    count: 1
+Word: wife
+	while      count: 1
+Word: beater
+	peter      count: 1
+Word: firebugs
+	bugs       count: 1
+Word: cendenaries
+	sundays    count: 1
+Word: nothin
+	nothing    count: 1
+Word: hen
+	him        count: 1
+	hand       count: 1
+Word: laid
+	lay        count: 1
+Word: laws
+	alas       count: 1
+Word: done
+	an         count: 1
+Word: hed
+	he         count: 1
+Word: oughter
+	orders     count: 1
+Word: sence
+	since      count: 1
+Word: keeps
+	gives      count: 1
+Word: give
+	gave       count: 1
+Word: could
+	couldnt    count: 1
+	good       count: 1
+	can        count: 1
+Word: fails
+	failed     count: 1
+Word: rabbit
+	rapid      count: 1
+Word: for
+	or         count: 1
+	where      count: 1
+	and        count: 1
+	tears      count: 1
+	from       count: 1
+	her        count: 1
+	but        count: 1
+	in         count: 1
+Word: nor
+	her        count: 1
+	or         count: 1
+Word: move
+	mood       count: 1
+Word: theyre
+	there      count: 1
+	then       count: 1
+	they       count: 1
+Word: so
+	said       count: 1
+Word: hollow
+	hollanden  count: 1
+Word: lived
+	all        count: 1
+	life       count: 1
+Word: resentful
+	resent     count: 1
+Word: plaits
+	plates     count: 1
+Word: lichen
+	liken      count: 1
+Word: panes
+	pans       count: 1
+Word: shutting
+	shedding   count: 1
+Word: liveried
+	livery     count: 1
+Word: lackey
+	blackie    count: 1
+Word: off
+	of         count: 1
+Word: wool
+	wolves     count: 1
+	wolf       count: 1
+	wall       count: 1
+Word: lies
+	lives      count: 1
+Word: concerned
+	concern    count: 1
+Word: shed
+	cowshed    count: 1
+Word: whittaw
+	widow      count: 1
+Word: treddleston
+	in         count: 1
+Word: surfaces
+	services   count: 1
+Word: pewter
+	peter      count: 1
+Word: grate
+	great      count: 1
+Word: shapen
+	shaped     count: 1
+Word: likeness
+	this       count: 1
+Word: dinah
+	knees      count: 1
+Word: morris
+	dynamos    count: 1
+Word: dinahs
+	dines      count: 1
+Word: within
+	a          count: 1
+Word: earshot
+	shot       count: 1
+Word: gallowsness
+	ness       count: 1
+Word: comb
+	come       count: 1
+Word: youd
+	shed       count: 1
+	hed        count: 1
+Word: headlongs
+	headlong   count: 1
+Word: ottleys
+	les        count: 1
+Word: sitting
+	presenting count: 1
+Word: twite
+	tried      count: 1
+Word: ike
+	delight    count: 1
+Word: whittawd
+	widow      count: 1
+Word: get
+	toyed      count: 1
+	at         count: 1
+Word: totty
+	tony       count: 1
+	toddy      count: 1
+Word: bad
+	an         count: 1
+Word: hanna
+	a          count: 1
+Word: irwine
+	erwin      count: 1
+Word: delight
+	do         count: 1
+Word: poyser
+	poison     count: 1
+Word: seating
+	sitting    count: 1
+Word: rosseter
+	rossiter   count: 1
+Word: theres
+	the        count: 1
+Word: whelps
+	wells      count: 1
+Word: farm
+	firm       count: 1
+Word: emigration
+	immigration count: 1
+Word: ruffian
+	in         count: 1
+Word: formidable
+	formable   count: 1
+Word: coming
+	in         count: 1
+Word: molded
+	moulded    count: 1
+Word: abolitionists
+	abolitionist count: 1
+Word: dignified
+	acompanied count: 1
+Word: all
+	descent    count: 1
+	boolooral  count: 1
+	more       count: 1
+	on         count: 1
+	ball       count: 1
+Word: non
+	on         count: 1
+Word: compliance
+	noncompliance count: 1
+Word: expulsion
+	explosion  count: 1
+Word: lynchings
+	launching  count: 1
+Word: chapters
+	chapter    count: 1
+Word: wrote
+	road       count: 1
+Word: eager
+	easier     count: 1
+Word: hemmed
+	him        count: 1
+Word: evolved
+	involved   count: 1
+Word: issued
+	localised  count: 1
+Word: writ
+	red        count: 1
+Word: reeder
+	reader     count: 1
+Word: scouting
+	scout      count: 1
+Word: ravines
+	veins      count: 1
+Word: beeder
+	reeder     count: 1
+Word: offenses
+	offences   count: 1
+Word: sumner
+	er         count: 1
+Word: twelfth
+	twelve     count: 1
+Word: leased
+	least      count: 1
+Word: prevent
+	present    count: 1
+Word: search
+	surge      count: 1
+Word: arrests
+	arrest     count: 1
+Word: atchison
+	addison    count: 1
+Word: haranguing
+	arranging  count: 1
+Word: honorable
+	honourable count: 1
+Word: westport
+	port       count: 1
+Word: jailer
+	jailor     count: 1
+Word: ninth
+	nine       count: 1
+Word: lecompton
+	compton    count: 1
+Word: dye
+	die        count: 1
+Word: foam
+	film       count: 1
+Word: veils
+	falls      count: 1
+Word: bubbles
+	bubble     count: 1
+Word: dome
+	done       count: 1
+Word: guided
+	it         count: 1
+Word: anothers
+	another    count: 1
+Word: burn
+	burned     count: 1
+Word: confidants
+	confidence count: 1
+Word: scummed
+	stunned    count: 1
+Word: whose
+	who        count: 1
+Word: cypress
+	cyprus     count: 1
+Word: ho
+	home       count: 1
+Word: tack
+	had        count: 1
+Word: dripping
+	tripping   count: 1
+Word: blasts
+	blast      count: 1
+Word: cymbals
+	symbols    count: 1
+Word: pinkies
+	pinkie     count: 1
+	winkies    count: 1
+	pines      count: 1
+Word: ghip
+	geese      count: 1
+	cases      count: 1
+Word: ghisizzle
+	and        count: 1
+	all        count: 1
+	kisses     count: 1
+	get        count: 1
+Word: button
+	a          count: 1
+Word: coralie
+	corey      count: 1
+Word: tintint
+	tenant     count: 1
+Word: blueskins
+	skin       count: 1
+Word: trot
+	poinsot    count: 1
+	that       count: 1
+	to         count: 1
+Word: grand
+	great      count: 1
+Word: thats
+	is         count: 1
+Word: conquerin
+	conquering count: 1
+Word: witch
+	which      count: 1
+Word: mate
+	mad        count: 1
+	made       count: 1
+Word: guards
+	guard      count: 1
+Word: feed
+	see        count: 1
+Word: goat
+	go         count: 1
+	boat       count: 1
+	god        count: 1
+Word: eat
+	cincinnat  count: 1
+Word: scuse
+	excuse     count: 1
+Word: ill
+	do         count: 1
+	how        count: 1
+	local      count: 1
+	is         count: 1
+Word: princesses
+	is         count: 1
+	noosances  count: 1
+Word: ordered
+	assisted   count: 1
+	order      count: 1
+Word: gave
+	give       count: 1
+Word: down
+	rose       count: 1
+	on         count: 1
+Word: stairs
+	downstairs count: 1
+	upstairs   count: 1
+Word: patch
+	put        count: 1
+	pet        count: 1
+Word: sailorman
+	man        count: 1
+Word: cup
+	couple     count: 1
+Word: coffee
+	him        count: 1
+Word: capn
+	camille    count: 1
+Word: considble
+	considerable count: 1
+Word: exercise
+	excess     count: 1
+Word: breakfas
+	breakfast  count: 1
+Word: rows
+	rose       count: 1
+Word: upholstered
+	opposed    count: 1
+Word: chairs
+	her        count: 1
+Word: snubnosed
+	this       count: 1
+Word: feel
+	o          count: 1
+	fill       count: 1
+	fell       count: 1
+Word: billygoat
+	out        count: 1
+Word: patching
+	catching   count: 1
+Word: stand
+	his        count: 1
+Word: hind
+	high       count: 1
+Word: theyve
+	they       count: 1
+Word: em
+	them       count: 1
+Word: splendid
+	landed     count: 1
+Word: glorious
+	porous     count: 1
+Word: escaped
+	escape     count: 1
+Word: far
+	sword      count: 1
+Word: warlike
+	like       count: 1
+Word: butt
+	but        count: 1
+Word: saved
+	save       count: 1
+Word: shiver
+	see        count: 1
+Word: bein
+	being      count: 1
+Word: loose
+	i          count: 1
+Word: mean
+	loved      count: 1
+Word: jus
+	just       count: 1
+Word: one
+	swung      count: 1
+	diganwy    count: 1
+	when       count: 1
+Word: feelins
+	feelings   count: 1
+Word: otherworldly
+	worldly    count: 1
+Word: seas
+	sea        count: 1
+Word: stockbroker
+	broker     count: 1
+Word: nemo
+	o          count: 1
+	no         count: 1
+Word: builds
+	built      count: 1
+Word: contained
+	containing count: 1
+Word: fast
+	ernest     count: 1
+Word: board
+	bore       count: 1
+Word: oceanographer
+	oceanographers count: 1
+Word: beebe
+	b          count: 1
+Word: polar
+	poor       count: 1
+Word: traveler
+	traveller  count: 1
+Word: gram
+	graham     count: 1
+Word: eighth
+	eight      count: 1
+	ape        count: 1
+Word: ounce
+	ape        count: 1
+Word: liter
+	later      count: 1
+Word: meter
+	mater      count: 1
+	made       count: 1
+Word: dreamed
+	dream      count: 1
+Word: conseil
+	casey      count: 1
+	conceal    count: 1
+	conceit    count: 1
+Word: manservant
+	servant    count: 1
+Word: knew
+	do         count: 1
+	new        count: 1
+Word: versed
+	burst      count: 1
+Word: whale
+	bellingall count: 1
+	away       count: 1
+Word: suitcase
+	case       count: 1
+Word: tiresome
+	some       count: 1
+Word: evasively
+	ably       count: 1
+Word: narwhale
+	will       count: 1
+Word: whos
+	whose      count: 1
+Word: aboard
+	forward    count: 1
+Word: farragut
+	forgot     count: 1
+Word: afterdeck
+	deck       count: 1
+Word: wharves
+	of         count: 1
+Word: combash
+	combats    count: 1
+Word: slaves
+	lives      count: 1
+Word: attended
+	tended     count: 1
+Word: injured
+	encore     count: 1
+Word: creature
+	ature      count: 1
+Word: hit
+	had        count: 1
+Word: jacobs
+	jacob      count: 1
+Word: redmans
+	redmonds   count: 1
+Word: welcome
+	balcom     count: 1
+Word: transient
+	transit    count: 1
+Word: rachel
+	moderate   count: 1
+	she        count: 1
+Word: dilated
+	did        count: 1
+Word: chelford
+	shefford   count: 1
+	shelford   count: 1
+	chelsford  count: 1
+Word: wan
+	an         count: 1
+Word: sate
+	sat        count: 1
+Word: brave
+	bravery    count: 1
+Word: lakes
+	lake       count: 1
+Word: hearts
+	part       count: 1
+	heart      count: 1
+Word: back
+	that       count: 1
+Word: lorne
+	born       count: 1
+Word: ship
+	generalship count: 1
+Word: beelzebub
+	beyond     count: 1
+Word: bractons
+	proceeds   count: 1
+Word: define
+	find       count: 1
+	defined    count: 1
+Word: bracton
+	brain      count: 1
+Word: walk
+	wall       count: 1
+Word: talking
+	ballyragging count: 1
+	dressing   count: 1
+Word: moonlight
+	light      count: 1
+Word: mottled
+	model      count: 1
+Word: latent
+	leaden     count: 1
+Word: mouthed
+	mouth      count: 1
+Word: malignities
+	midianites count: 1
+Word: satanic
+	attack     count: 1
+Word: unexceptionably
+	bled       count: 1
+Word: faded
+	feet       count: 1
+Word: tapestry
+	etait      count: 1
+Word: lighted
+	bullied    count: 1
+Word: cheroot
+	trout      count: 1
+Word: sombre
+	somber     count: 1
+Word: tumbled
+	tumble     count: 1
+Word: above
+	fermentable count: 1
+	about      count: 1
+Word: quasi
+	i          count: 1
+Word: peaceable
+	peaceful   count: 1
+Word: other
+	the        count: 1
+	another    count: 1
+Word: many
+	men        count: 1
+Word: embodied
+	bodied     count: 1
+Word: title
+	entitled   count: 1
+Word: talkers
+	is         count: 1
+Word: goods
+	good       count: 1
+Word: grounds
+	ground     count: 1
+Word: everyday
+	day        count: 1
+Word: article
+	attica     count: 1
+Word: utility
+	satellite  count: 1
+Word: antedating
+	stating    count: 1
+Word: specialised
+	specialized count: 1
+Word: falls
+	false      count: 1
+Word: merely
+	melanesian count: 1
+	nearly     count: 1
+Word: incidental
+	tale       count: 1
+Word: fulness
+	fullness   count: 1
+Word: tabu
+	be         count: 1
+	bee        count: 1
+	taboo      count: 1
+Word: larger
+	large      count: 1
+Word: belong
+	belonged   count: 1
+Word: certain
+	said       count: 1
+Word: grades
+	grates     count: 1
+Word: lesser
+	less       count: 1
+Word: retainer
+	retainers  count: 1
+Word: even
+	man        count: 1
+Word: roughly
+	replied    count: 1
+Word: which
+	witch      count: 1
+Word: whenever
+	never      count: 1
+Word: leisure
+	pleasure   count: 1
+Word: communities
+	community  count: 1
+Word: levels
+	level      count: 1
+Word: cease
+	ceased     count: 1
+Word: pecuniary
+	household  count: 1
+	peculiarity count: 1
+Word: decency
+	peculiarity count: 1
+	since      count: 1
+Word: pretense
+	pretence   count: 1
+Word: serviceability
+	suitability count: 1
+Word: savings
+	saving     count: 1
+Word: neighborhood
+	neighbor   count: 1
+Word: gossip
+	gossips    count: 1
+Word: like
+	light      count: 1
+Word: printing
+	imploiment count: 1
+Word: log
+	law        count: 1
+Word: onto
+	to         count: 1
+Word: servadac
+	back       count: 1
+	deck       count: 1
+	servant    count: 1
+Word: any
+	the        count: 1
+	i          count: 1
+Word: degree
+	midge      count: 1
+Word: site
+	sight      count: 1
+Word: amphitheater
+	amphitheatre count: 1
+Word: awhile
+	while      count: 1
+Word: barren
+	baron      count: 1
+Word: topmasts
+	mast       count: 1
+Word: timascheffs
+	shes       count: 1
+Word: dobryna
+	darena     count: 1
+	doraine    count: 1
+	drina      count: 1
+Word: mainsail
+	sail       count: 1
+Word: zoof
+	benson     count: 1
+Word: spin
+	spend      count: 1
+Word: leading
+	leaving    count: 1
+Word: servadacs
+	at         count: 1
+Word: arrondissement
+	undecimo   count: 1
+Word: honors
+	honours    count: 1
+Word: unlike
+	i          count: 1
+Word: encyclopaedia
+	encyclopedia count: 1
+Word: adona
+	donna      count: 1
+Word: fades
+	fate       count: 1
+Word: fade
+	fate       count: 1
+Word: watry
+	watery     count: 1
+	water      count: 1
+Word: walketh
+	walked     count: 1
+Word: lilly
+	lily       count: 1
+Word: answerd
+	answered   count: 1
+Word: love
+	loved      count: 1
+Word: perches
+	purchase   count: 1
+Word: spreads
+	spread     count: 1
+Word: born
+	newborn    count: 1
+Word: manna
+	manner     count: 1
+Word: melts
+	mounts     count: 1
+Word: sigh
+	adores     count: 1
+Word: ceasd
+	ceased     count: 1
+Word: smild
+	smiled     count: 1
+Word: dost
+	dust       count: 1
+	of         count: 1
+Word: milked
+	milk       count: 1
+Word: vanish
+	banished   count: 1
+Word: thro
+	through    count: 1
+Word: find
+	fine       count: 1
+	defined    count: 1
+Word: shewd
+	showed     count: 1
+Word: emergd
+	emerge     count: 1
+Word: fearest
+	fierce     count: 1
+Word: tenfold
+	fold       count: 1
+Word: weigh
+	way        count: 1
+Word: flowers
+	bomford    count: 1
+	flower     count: 1
+Word: eyed
+	eye        count: 1
+Word: dew
+	do         count: 1
+Word: linkd
+	linked     count: 1
+Word: lillys
+	lily       count: 1
+Word: cloud
+	clouds     count: 1
+Word: saild
+	sailed     count: 1
+Word: vale
+	veil       count: 1
+Word: showring
+	showering  count: 1
+Word: impressd
+	impressed  count: 1
+Word: eyelids
+	islands    count: 1
+Word: unaverred
+	unaverted  count: 1
+Word: prodigal
+	chronicle  count: 1
+Word: troth
+	truth      count: 1
+Word: foretold
+	to         count: 1
+Word: mussulmans
+	muslins    count: 1
+Word: giaours
+	guards     count: 1
+Word: kerchiefs
+	churches   count: 1
+Word: thank
+	think      count: 1
+	sank       count: 1
+Word: pilgrims
+	pilgrim    count: 1
+Word: dews
+	dew        count: 1
+Word: patchwork
+	work       count: 1
+Word: gay
+	game       count: 1
+Word: braids
+	brains     count: 1
+Word: kettles
+	candles    count: 1
+Word: used
+	police     count: 1
+Word: told
+	untold     count: 1
+Word: sorceress
+	sources    count: 1
+Word: use
+	used       count: 1
+Word: latched
+	locked     count: 1
+Word: neighbor
+	neighbour  count: 1
+Word: pipt
+	pipped     count: 1
+Word: knocked
+	all        count: 1
+Word: lonelier
+	fire       count: 1
+Word: place
+	littlepage count: 1
+Word: traveling
+	travelling count: 1
+Word: mombi
+	by         count: 1
+Word: may
+	they       count: 1
+Word: oz
+	us         count: 1
+Word: nunkie
+	monkey     count: 1
+Word: neatly
+	lately     count: 1
+Word: sewed
+	so         count: 1
+Word: munchkins
+	munchkin   count: 1
+Word: lives
+	amalie     count: 1
+Word: indulged
+	indulge    count: 1
+Word: imbibed
+	imbibe     count: 1
+Word: sects
+	sex        count: 1
+Word: proscribed
+	prescribed count: 1
+Word: civil
+	single     count: 1
+Word: donatists
+	donatist   count: 1
+Word: numidia
+	media      count: 1
+Word: acknowledged
+	acknowledge count: 1
+Word: abbe
+	abbey      count: 1
+Word: scevra
+	camera     count: 1
+Word: sceura
+	cure       count: 1
+Word: inspired
+	every      count: 1
+Word: marivaux
+	maria      count: 1
+	mervo      count: 1
+Word: posterity
+	prosperity count: 1
+Word: assumed
+	assume     count: 1
+Word: talent
+	talents    count: 1
+Word: marianne
+	anne       count: 1
+Word: sauveur
+	sever      count: 1
+Word: christain
+	christian  count: 1
+Word: intolerancy
+	intolerance count: 1
+Word: esprit
+	free       count: 1
+Word: quinson
+	quinones   count: 1
+Word: answer
+	enter      count: 1
+Word: enquiries
+	inquiries  count: 1
+Word: hire
+	higher     count: 1
+Word: sou
+	so         count: 1
+Word: sit
+	sat        count: 1
+	so         count: 1
+Word: enquire
+	inquire    count: 1
+Word: address
+	addressed  count: 1
+Word: prove
+	proved     count: 1
+Word: badauderie
+	badagry    count: 1
+Word: civet
+	seventh    count: 1
+Word: snuff
+	snug       count: 1
+Word: wit
+	it         count: 1
+Word: mad
+	made       count: 1
+Word: everybody
+	body       count: 1
+Word: roi
+	feathery   count: 1
+Word: reside
+	resided    count: 1
+Word: douze
+	grew       count: 1
+Word: portes
+	tetoot     count: 1
+Word: repartees
+	rebates    count: 1
+Word: pegre
+	lope       count: 1
+Word: theft
+	shaft      count: 1
+	left       count: 1
+Word: hell
+	the        count: 1
+Word: pegrenne
+	lowerin    count: 1
+Word: thus
+	this       count: 1
+	these      count: 1
+Word: gulf
+	gold       count: 1
+Word: banished
+	vanished   count: 1
+Word: bat
+	bad        count: 1
+Word: hairdresser
+	dresser    count: 1
+Word: mealyback
+	yack       count: 1
+Word: precieuses
+	presses    count: 1
+Word: botany
+	button     count: 1
+Word: phoenician
+	nation     count: 1
+Word: mell
+	now        count: 1
+Word: true
+	two        count: 1
+Word: form
+	for        count: 1
+Word: accents
+	and        count: 1
+Word: articulate
+	in         count: 1
+Word: hydras
+	high       count: 1
+Word: compose
+	compost    count: 1
+Word: column
+	vertical   count: 1
+Word: goes
+	go         count: 1
+Word: tintoret
+	cute       count: 1
+Word: unite
+	united     count: 1
+Word: chiaroscurists
+	circus     count: 1
+Word: chiaroscurist
+	cursores   count: 1
+Word: hue
+	huge       count: 1
+Word: ponds
+	pans       count: 1
+Word: carpaccios
+	capacious  count: 1
+Word: seize
+	see        count: 1
+Word: these
+	the        count: 1
+	is         count: 1
+Word: harmonized
+	harmonize  count: 1
+Word: vignette
+	fine       count: 1
+Word: copied
+	carpet     count: 1
+Word: low
+	most       count: 1
+Word: colorist
+	colourist  count: 1
+Word: erroneous
+	ireneus    count: 1
+Word: seek
+	see        count: 1
+Word: purist
+	pure       count: 1
+Word: peace
+	piece      count: 1
+Word: paroquet
+	peace      count: 1
+Word: clotted
+	clouded    count: 1
+Word: whatever
+	whatsoever count: 1
+	ever       count: 1
+Word: raphael
+	rafael     count: 1
+Word: turners
+	turns      count: 1
+Word: etchings
+	things     count: 1
+Word: duerer
+	order      count: 1
+Word: crampness
+	grimness   count: 1
+Word: watermill
+	water      count: 1
+Word: itself
+	mill       count: 1
+Word: mossy
+	itself     count: 1
+Word: eagle
+	gurgle     count: 1
+Word: wont
+	what       count: 1
+Word: alice
+	was        count: 1
+Word: claws
+	cause      count: 1
+Word: little
+	the        count: 1
+Word: fishes
+	offices    count: 1
+Word: mabel
+	be         count: 1
+Word: saying
+	sang       count: 1
+Word: bristling
+	rising     count: 1
+Word: vapours
+	vapors     count: 1
+	content    count: 1
+Word: saline
+	sailing    count: 1
+Word: curtain
+	cur        count: 1
+Word: mist
+	mice       count: 1
+Word: dense
+	dance      count: 1
+Word: opaque
+	oak        count: 1
+Word: impenetrable
+	penetrable count: 1
+Word: never
+	ever       count: 1
+Word: lulls
+	lolled     count: 1
+Word: elmos
+	lamennais  count: 1
+Word: yet
+	get        count: 1
+Word: piled
+	powder     count: 1
+Word: condense
+	in         count: 1
+Word: stirs
+	hamsters   count: 1
+Word: emissions
+	missions   count: 1
+Word: gaseous
+	gashes     count: 1
+Word: innumerable
+	inerrable  count: 1
+Word: rush
+	rushed     count: 1
+Word: refer
+	referred   count: 1
+Word: atmospheric
+	atmosphere count: 1
+Word: redoubles
+	redoubled  count: 1
+Word: fireball
+	ball       count: 1
+Word: white
+	wide       count: 1
+Word: blue
+	azergue    count: 1
+Word: velocity
+	pilosity   count: 1
+Word: whipped
+	whip       count: 1
+Word: thence
+	thats      count: 1
+Word: unbroken
+	an         count: 1
+Word: pond
+	point      count: 1
+	seaport    count: 1
+Word: voyage
+	way        count: 1
+Word: weather
+	whether    count: 1
+Word: width
+	wit        count: 1
+Word: liedenbrock
+	rock       count: 1
+Word: pick
+	pig        count: 1
+Word: traversed
+	first      count: 1
+Word: creating
+	recreating count: 1
+Word: attacked
+	attack     count: 1
+Word: whirlpool
+	pole       count: 1
+Word: hon
+	honorable  count: 1
+Word: uptown
+	town       count: 1
+Word: easterlys
+	easterly   count: 1
+Word: guests
+	guest      count: 1
+Word: disquietude
+	quietude   count: 1
+Word: creighton
+	crichton   count: 1
+	crighton   count: 1
+Word: cotton
+	god        count: 1
+	me         count: 1
+Word: interests
+	interest   count: 1
+	entrance   count: 1
+Word: forthwith
+	with       count: 1
+Word: training
+	in         count: 1
+Word: highest
+	hats       count: 1
+Word: enormously
+	enormous   count: 1
+Word: between
+	liewen     count: 1
+Word: vanderpools
+	pools      count: 1
+Word: positively
+	time       count: 1
+Word: welcomed
+	welcome    count: 1
+Word: greys
+	grays      count: 1
+Word: northerners
+	nose       count: 1
+Word: southerners
+	soldiers   count: 1
+Word: arriving
+	riding     count: 1
+Word: mutual
+	batouta    count: 1
+Word: panted
+	wanted     count: 1
+Word: midday
+	day        count: 1
+Word: edged
+	edge       count: 1
+Word: bolls
+	bulls      count: 1
+Word: agape
+	again      count: 1
+Word: leaned
+	lay        count: 1
+Word: pain
+	pains      count: 1
+	and        count: 1
+Word: web
+	war        count: 1
+Word: sun
+	son        count: 1
+Word: tremulous
+	tremulus   count: 1
+Word: lo
+	low        count: 1
+	hello      count: 1
+Word: senior
+	singers    count: 1
+Word: defence
+	defense    count: 1
+Word: tooms
+	toms       count: 1
+Word: cresswells
+	cresswell  count: 1
+Word: big
+	be         count: 1
+Word: philanthropies
+	anthrops   count: 1
+Word: paused
+	passed     count: 1
+Word: might
+	may        count: 1
+	bellarmine count: 1
+Word: remark
+	remarked   count: 1
+Word: literally
+	re         count: 1
+Word: goobers
+	good       count: 1
+Word: vines
+	evanston   count: 1
+Word: underground
+	ground     count: 1
+Word: roots
+	words      count: 1
+Word: yams
+	gems       count: 1
+Word: desires
+	desired    count: 1
+Word: critias
+	pretious   count: 1
+	radius     count: 1
+Word: approves
+	proof      count: 1
+Word: solons
+	silence    count: 1
+Word: dropidas
+	troilus    count: 1
+Word: poem
+	poor       count: 1
+Word: exploits
+	exploit    count: 1
+Word: egypt
+	hip        count: 1
+Word: mere
+	immure     count: 1
+Word: childrens
+	children   count: 1
+Word: athens
+	nine       count: 1
+Word: marvelled
+	marveled   count: 1
+Word: founded
+	at         count: 1
+	in         count: 1
+	doubted    count: 1
+Word: annals
+	animals    count: 1
+Word: record
+	recorded   count: 1
+	records    count: 1
+Word: law
+	to         count: 1
+Word: lost
+	last       count: 1
+Word: athenian
+	of         count: 1
+Word: whom
+	from       count: 1
+Word: geometrical
+	metrical   count: 1
+Word: flux
+	flood      count: 1
+Word: depths
+	death      count: 1
+Word: connections
+	connection count: 1
+Word: characteristic
+	eristic    count: 1
+Word: abstractions
+	obstructions count: 1
+Word: platonists
+	neoplatonists count: 1
+Word: spirit
+	inspire    count: 1
+Word: trilogies
+	trilogy    count: 1
+Word: defined
+	fine       count: 1
+Word: heracleitus
+	heraclitus count: 1
+Word: anaxagoras
+	eager      count: 1
+Word: asserts
+	served     count: 1
+Word: mind
+	mine       count: 1
+Word: supposes
+	piperies   count: 1
+Word: differ
+	differed   count: 1
+Word: exhibits
+	limits     count: 1
+Word: phaedrus
+	figures    count: 1
+Word: art
+	are        count: 1
+Word: write
+	ride       count: 1
+	right      count: 1
+Word: clumsiness
+	cosiness   count: 1
+Word: lucretius
+	precious   count: 1
+Word: flow
+	slow       count: 1
+Word: apposition
+	opposition count: 1
+Word: firs
+	first      count: 1
+Word: older
+	old        count: 1
+Word: cutters
+	woodcutters count: 1
+Word: tree
+	future     count: 1
+Word: recognised
+	recognized count: 1
+Word: fain
+	say        count: 1
+Word: anymore
+	more       count: 1
+Word: yard
+	courtyard  count: 1
+Word: worth
+	with       count: 1
+Word: least
+	these      count: 1
+Word: dumpy
+	a          count: 1
+	happy      count: 1
+Word: reverie
+	revery     count: 1
+Word: squeak
+	speak      count: 1
+	quick      count: 1
+Word: humpy
+	is         count: 1
+Word: asked
+	dominated  count: 1
+	ask        count: 1
+Word: mice
+	ice        count: 1
+Word: listened
+	listen     count: 1
+Word: sighed
+	side       count: 1
+Word: chelsea
+	chills     count: 1
+Word: wouldnt
+	would      count: 1
+Word: molly
+	small      count: 1
+Word: deste
+	villages   count: 1
+Word: watercress
+	cress      count: 1
+Word: sole
+	soul       count: 1
+Word: omelette
+	omelet     count: 1
+Word: rhone
+	road       count: 1
+Word: looks
+	looked     count: 1
+Word: mer
+	bandar     count: 1
+Word: demurely
+	merely     count: 1
+Word: francs
+	franks     count: 1
+Word: neither
+	hill       count: 1
+	either     count: 1
+Word: unclenched
+	clutched   count: 1
+Word: mersey
+	mercy      count: 1
+Word: upstairs
+	stairs     count: 1
+Word: sister
+	a          count: 1
+Word: kate
+	sister     count: 1
+Word: havent
+	not        count: 1
+Word: lower
+	lowered    count: 1
+Word: leash
+	lash       count: 1
+Word: werent
+	are        count: 1
+Word: youve
+	have       count: 1
+Word: come
+	came       count: 1
+Word: bent
+	and        count: 1
+Word: weve
+	with       count: 1
+Word: looked
+	look       count: 1
+Word: hansom
+	handsome   count: 1
+Word: wanting
+	wanted     count: 1
+Word: irene
+	were       count: 1
+Word: burgoyne
+	going      count: 1
+Word: vouched
+	out        count: 1
+Word: towne
+	town       count: 1
+Word: westmere
+	west       count: 1
+Word: donkey
+	dance      count: 1
+Word: ask
+	asked      count: 1
+Word: homely
+	holy       count: 1
+Word: daft
+	deaf       count: 1
+Word: own
+	around     count: 1
+Word: young
+	none       count: 1
+Word: ideas
+	a          count: 1
+Word: approximately
+	proximately count: 1
+Word: sprang
+	spring     count: 1
+Word: tenability
+	inability  count: 1
+Word: behaviourist
+	behaviors  count: 1
+	is         count: 1
+Word: behaviour
+	behavior   count: 1
+Word: feels
+	his        count: 1
+Word: friends
+	france     count: 1
+Word: pastness
+	pastiness  count: 1
+Word: event
+	even       count: 1
+Word: feelings
+	feeling    count: 1
+Word: events
+	it         count: 1
+Word: recited
+	resided    count: 1
+Word: semons
+	simmons    count: 1
+Word: interest
+	venturest  count: 1
+Word: messrs
+	messieurs  count: 1
+Word: sweep
+	swept      count: 1
+Word: idiosyncratically
+	ally       count: 1
+Word: electroplating
+	plating    count: 1
+Word: storage
+	urge       count: 1
+Word: residence
+	residents  count: 1
+Word: house
+	farmhouse  count: 1
+Word: current
+	currents   count: 1
+Word: shoddy
+	shady      count: 1
+Word: districts
+	district   count: 1
+Word: pole
+	pull       count: 1
+Word: inventors
+	vendors    count: 1
+Word: edisonia
+	edisonian  count: 1
+Word: premises
+	promises   count: 1
+Word: sold
+	soul       count: 1
+Word: scepticism
+	skepticism count: 1
+Word: weighed
+	weed       count: 1
+Word: jenks
+	jack       count: 1
+Word: reweighed
+	rewa       count: 1
+Word: fattened
+	and        count: 1
+Word: hello
+	barty      count: 1
+Word: bertie
+	and        count: 1
+Word: night
+	not        count: 1
+Word: ennis
+	and        count: 1
+Word: glowing
+	blowing    count: 1
+Word: sin
+	in         count: 1
+	it         count: 1
+Word: schoolroom
+	room       count: 1
+Word: swollen
+	and        count: 1
+Word: accruing
+	crowing    count: 1
+Word: pour
+	for        count: 1
+Word: change
+	changed    count: 1
+	to         count: 1
+Word: honour
+	honor      count: 1
+Word: fold
+	fall       count: 1
+Word: xavier
+	saviour    count: 1
+Word: fathers
+	father     count: 1
+Word: harts
+	hearts     count: 1
+Word: livid
+	lived      count: 1
+Word: hickey
+	hicky      count: 1
+Word: mac
+	mc         count: 1
+Word: ardle
+	cardell    count: 1
+Word: keogh
+	chios      count: 1
+Word: richer
+	richard    count: 1
+Word: pride
+	bride      count: 1
+Word: chord
+	accord     count: 1
+Word: valleyed
+	valley     count: 1
+Word: woodbegirt
+	girt       count: 1
+Word: citadelled
+	down       count: 1
+Word: dedalus
+	dales      count: 1
+Word: breakwater
+	water      count: 1
+Word: horseplay
+	play       count: 1
+Word: lustre
+	luster     count: 1
+Word: dedalos
+	loss       count: 1
+Word: hazewrapped
+	wrapped    count: 1
+Word: drew
+	true       count: 1
+Word: immediately
+	ely        count: 1
+Word: groan
+	grown      count: 1
+Word: storys
+	stories    count: 1
+Word: enclose
+	enclosed   count: 1
+Word: finds
+	of         count: 1
+Word: scruples
+	scruple    count: 1
+Word: acute
+	cute       count: 1
+Word: douglas
+	doris      count: 1
+Word: hushed
+	hush       count: 1
+Word: begun
+	gun        count: 1
+Word: sounded
+	a          count: 1
+Word: disburdened
+	burden     count: 1
+Word: steeld
+	steeled    count: 1
+Word: greeing
+	green      count: 1
+Word: poisond
+	poisoned   count: 1
+Word: loves
+	loved      count: 1
+Word: doth
+	at         count: 1
+	to         count: 1
+	do         count: 1
+Word: milliond
+	million    count: 1
+Word: decrees
+	cries      count: 1
+Word: tan
+	ten        count: 1
+Word: sharpst
+	sharpest   count: 1
+Word: intents
+	intense    count: 1
+Word: oer
+	in         count: 1
+Word: incertainty
+	certainty  count: 1
+Word: babe
+	bad        count: 1
+Word: grow
+	outgrow    count: 1
+Word: return
+	returned   count: 1
+Word: rebukd
+	rebuke     count: 1
+Word: removd
+	removed    count: 1
+Word: kills
+	tells      count: 1
+Word: leap
+	leave      count: 1
+Word: nought
+	not        count: 1
+Word: eithers
+	either     count: 1
+Word: piercd
+	pierced    count: 1
+Word: plea
+	lead       count: 1
+Word: whereby
+	by         count: 1
+Word: stopped
+	stop       count: 1
+Word: harangue
+	rang       count: 1
+Word: angor
+	anger      count: 1
+Word: heaven
+	even       count: 1
+Word: cause
+	cars       count: 1
+Word: horse
+	for        count: 1
+	course     count: 1
+Word: hose
+	as         count: 1
+Word: mans
+	an         count: 1
+Word: housecleaning
+	cleaning   count: 1
+Word: hussy
+	his        count: 1
+Word: bond
+	bon        count: 1
+Word: dealer
+	dearer     count: 1
+Word: came
+	talking    count: 1
+Word: lutheran
+	more       count: 1
+Word: disown
+	one        count: 1
+Word: defends
+	defense    count: 1
+Word: takes
+	politics   count: 1
+Word: calls
+	cause      count: 1
+Word: mentions
+	mentioned  count: 1
+Word: directly
+	directed   count: 1
+Word: sophistry
+	fastened   count: 1
+Word: instead
+	set        count: 1
+Word: clause
+	class      count: 1
+Word: righteousness
+	rightness  count: 1
+Word: epistle
+	pistle     count: 1
+Word: verse
+	first      count: 1
+Word: christians
+	questions  count: 1
+Word: do
+	did        count: 1
+Word: godless
+	as         count: 1
+Word: greeting
+	reading    count: 1
+Word: paul
+	pale       count: 1
+Word: ascribes
+	scribes    count: 1
+Word: dispense
+	spence     count: 1
+Word: mohammed
+	mohammad   count: 1
+Word: theme
+	potestatem count: 1
+Word: paschal
+	pascal     count: 1
+Word: sins
+	sense      count: 1
+Word: luthers
+	luther     count: 1
+Word: galatians
+	elations   count: 1
+Word: roerer
+	roar       count: 1
+Word: christs
+	christ     count: 1
+Word: eva
+	cresswell  count: 1
+Word: crasweller
+	or         count: 1
+Word: bunnit
+	bennet     count: 1
+Word: arranging
+	rain       count: 1
+Word: quarter
+	discourse  count: 1
+Word: subjects
+	subject    count: 1
+Word: craswellers
+	wellers    count: 1
+Word: gentlemen
+	gentleman  count: 1
+Word: officers
+	officer    count: 1
+Word: dreamt
+	dream      count: 1
+Word: farthest
+	further    count: 1
+Word: evas
+	even       count: 1
+Word: stands
+	stand      count: 1
+Word: powerless
+	perilous   count: 1
+Word: crosstrees
+	trees      count: 1
+Word: shore
+	sure       count: 1
+Word: wide
+	worldwide  count: 1
+Word: iniquity
+	antiquity  count: 1
+Word: discloses
+	disclose   count: 1
+Word: britannulists
+	less       count: 1
+Word: deliberative
+	deliberate count: 1
+Word: survive
+	survived   count: 1
+Word: government
+	governor   count: 1
+Word: bright
+	brake      count: 1
+Word: armed
+	arm        count: 1
+Word: altered
+	after      count: 1
+Word: beth
+	the        count: 1
+	that       count: 1
+	be         count: 1
+	both       count: 1
+Word: refrained
+	timberham  count: 1
+Word: rogerss
+	rogers     count: 1
+Word: forging
+	fourteen   count: 1
+Word: gates
+	gate       count: 1
+Word: bade
+	big        count: 1
+Word: wish
+	wished     count: 1
+Word: running
+	reading    count: 1
+Word: demeanor
+	demeter    count: 1
+Word: yearning
+	year       count: 1
+Word: dunno
+	know       count: 1
+Word: dyin
+	worse      count: 1
+Word: tom
+	to         count: 1
+Word: ever
+	never      count: 1
+Word: graf
+	grant      count: 1
+Word: light
+	white      count: 1
+Word: we
+	surely     count: 1
+Word: wait
+	waited     count: 1
+Word: sign
+	signed     count: 1
+Word: concern
+	concert    count: 1
+Word: bookkeeper
+	keeper     count: 1
+Word: forge
+	forged     count: 1
+Word: them
+	him        count: 1
+Word: unlock
+	lock       count: 1
+Word: ruins
+	runs       count: 1
+Word: costs
+	cost       count: 1
+Word: quash
+	cash       count: 1
+Word: disposition
+	despises   count: 1
+Word: endeavor
+	endeavour  count: 1
+Word: forbess
+	force      count: 1
+Word: hopkinss
+	hopkins    count: 1
+Word: tasks
+	task       count: 1
+Word: hopkins
+	opkins     count: 1
+	hawkins    count: 1
+Word: reynolds
+	rentals    count: 1
+Word: womans
+	womens     count: 1
+Word: fairview
+	view       count: 1
+Word: band
+	and        count: 1
+Word: foreseeing
+	seeing     count: 1
+Word: attendants
+	attendance count: 1
+Word: laugh
+	out        count: 1
+Word: linen
+	women      count: 1
+Word: eliza
+	a          count: 1
+	alias      count: 1
+Word: parsons
+	lipan      count: 1
+Word: surpassed
+	surpass    count: 1
+Word: floyds
+	fortalice  count: 1
+Word: advice
+	to         count: 1
+Word: buchanan
+	caned      count: 1
+Word: unless
+	unlistened count: 1
+Word: indeed
+	deed       count: 1
+Word: day
+	letter     count: 1
+	latterday  count: 1
+Word: saints
+	they       count: 1
+Word: call
+	say        count: 1
+Word: celestial
+	its        count: 1
+Word: plural
+	world      count: 1
+Word: utah
+	newton     count: 1
+Word: misdemeanor
+	meaner     count: 1
+Word: extend
+	extends    count: 1
+Word: fined
+	find       count: 1
+Word: imprisoned
+	prisoned   count: 1
+Word: sentences
+	sentence   count: 1
+	is         count: 1
+Word: contested
+	confessed  count: 1
+Word: disincorporated
+	discorporate count: 1
+Word: escheated
+	incited    count: 1
+Word: formally
+	formerly   count: 1
+Word: adherents
+	adherence  count: 1
+Word: stakes
+	stake      count: 1
+Word: ward
+	word       count: 1
+Word: priesthood
+	pressed    count: 1
+Word: foreign
+	afford     count: 1
+Word: inasmuch
+	much       count: 1
+Word: attained
+	hesitated  count: 1
+Word: generally
+	daily      count: 1
+Word: favor
+	favour     count: 1
+Word: kirtland
+	carlin     count: 1
+Word: independence
+	dependence count: 1
+Word: w
+	little     count: 1
+Word: boggs
+	barnabas   count: 1
+Word: most
+	but        count: 1
+Word: therein
+	in         count: 1
+Word: founding
+	downing    count: 1
+Word: shoal
+	show       count: 1
+Word: butchered
+	butcher    count: 1
+Word: entrusted
+	intrusted  count: 1
+Word: resigned
+	resign     count: 1
+Word: boys
+	schoolboys count: 1
+Word: papal
+	papa       count: 1
+Word: vaudois
+	two        count: 1
+Word: sixteenth
+	sixteen    count: 1
+Word: nod
+	not        count: 1
+Word: editors
+	enters     count: 1
+Word: london
+	the        count: 1
+Word: play
+	plain      count: 1
+Word: ear
+	lynmere    count: 1
+Word: stagecraft
+	craft      count: 1
+Word: ham
+	him        count: 1
+Word: irresolution
+	lucian     count: 1
+Word: being
+	mean       count: 1
+Word: soliloquy
+	hamitchou  count: 1
+	how        count: 1
+Word: whole
+	behold     count: 1
+Word: jaw
+	job        count: 1
+Word: dramatists
+	dramatist  count: 1
+Word: however
+	ever       count: 1
+Word: shall
+	the        count: 1
+Word: avoided
+	altitude   count: 1
+Word: ophelia
+	of         count: 1
+Word: attention
+	kitchen    count: 1
+Word: confidence
+	competence count: 1
+Word: elsinore
+	eleanor    count: 1
+Word: speaking
+	peaking    count: 1
+	begin      count: 1
+Word: hamlet
+	hamlets    count: 1
+Word: happen
+	happened   count: 1
+Word: enter
+	and        count: 1
+Word: falcon
+	pealin     count: 1
+Word: mongoose
+	mongers    count: 1
+Word: boar
+	favorite   count: 1
+Word: hound
+	boarhound  count: 1
+Word: larkspur
+	burst      count: 1
+Word: starts
+	her        count: 1
+Word: turns
+	terms      count: 1
+Word: swoons
+	soon       count: 1
+Word: fluffinose
+	fluffiness count: 1
+Word: manoeuvring
+	ring       count: 1
+Word: relapses
+	relates    count: 1
+Word: silence
+	designs    count: 1
+Word: duchess
+	utters     count: 1
+Word: leaving
+	leaping    count: 1
+Word: proves
+	proved     count: 1
+Word: lump
+	lamp       count: 1
+Word: tray
+	trade      count: 1
+Word: deceiving
+	seeing     count: 1
+Word: remove
+	moved      count: 1
+Word: hostess
+	hoses      count: 1
+Word: hero
+	state      count: 1
+Word: bites
+	his        count: 1
+Word: guest
+	guests     count: 1
+Word: footman
+	men        count: 1
+Word: old
+	mold       count: 1
+Word: iridescent
+	decent     count: 1
+Word: saw
+	salt       count: 1
+Word: toothed
+	tooth      count: 1
+Word: diving
+	divan      count: 1
+Word: wing
+	away       count: 1
+Word: victim
+	dictum     count: 1
+Word: hawk
+	cock       count: 1
+	hock       count: 1
+Word: followed
+	bowed      count: 1
+Word: vanished
+	finished   count: 1
+Word: teal
+	team       count: 1
+Word: glided
+	lighted    count: 1
+Word: frequenter
+	frequent   count: 1
+Word: clutching
+	catching   count: 1
+Word: talons
+	talents    count: 1
+Word: sank
+	since      count: 1
+Word: feeding
+	speeding   count: 1
+Word: hawks
+	hocks      count: 1
