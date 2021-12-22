@@ -72,10 +72,10 @@ def preprocess_text(text):
     
     ## it takes long time to normalize
     ## skip this first
-    # try:
-    #     text = normalize_text(text)
-    # except:
-    #     text = ""
+    try:
+        text = normalize_text(text)
+    except:
+        pass
     
     text = remove_punctuation(text)
     text = substitute_word(text)
