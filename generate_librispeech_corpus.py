@@ -9,9 +9,11 @@ def idx_to_file(idx):
 
 if __name__ == "__main__":
 
-    root_dir = "LibriSpeech/test-clean/"
+    mode = "test-other"
+    
+    root_dir = f"LibriSpeech/{mode}/"
 
-    corpus_fpath = "LibriSpeech/test-clean-corpus.txt"
+    corpus_fpath = f"LibriSpeech/{mode}-corpus.txt"
 
     with open(corpus_fpath, 'w') as corpus_file:
 
