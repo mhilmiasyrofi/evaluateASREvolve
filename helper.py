@@ -5,7 +5,7 @@ import re
 import string
 from normalise import normalise, tokenize_basic
 
-def read_transcription(fpath):
+def read_transcription(fpath:str)->str:
     file = open(fpath)
     transcription = file.readline()
     file.close()
@@ -13,7 +13,7 @@ def read_transcription(fpath):
     return transcription
 
 
-def remove_hex(text):
+def remove_hex(text:str)->str:
     """
     Example: 
     "\xe3\x80\x90Hello \xe3\x80\x91 World!"
@@ -30,11 +30,11 @@ def remove_hex(text):
     return "".join(res)
 
 
-def remove_punctuation(text):
+def remove_punctuation(text:str)->str:
     return text.translate(str.maketrans('', '', string.punctuation))
 
 
-def remove_multiple_whitespace(text):
+def remove_multiple_whitespace(text:str)->str:
     """
     remove multiple whitespace
     it covers tabs and newlines also
@@ -42,12 +42,12 @@ def remove_multiple_whitespace(text):
     return re.sub(' +', ' ', text.replace('\n', ' ').replace('\t', ' ')).strip()
 
 
-def normalize_text(text):
+def normalize_text(text:str)->str:
     return " ".join(normalise(text, tokenizer=tokenize_basic, verbose=False))
 
 
 ## TODO check missus and mister again
-def substitute_word(text):
+def substitute_word(text:str)->str:
     """
     word subsitution to make it consistent
     """
@@ -65,7 +65,7 @@ def substitute_word(text):
     return " ".join(preprocessed)
 
 
-def preprocess_text(text):
+def preprocess_text(text: str) -> str:
     text = text.lower()
     text = remove_hex(text)
     text = remove_punctuation(text)
@@ -75,7 +75,7 @@ def preprocess_text(text):
     try:
         text = normalize_text(text)
     except:
-        pass
+        text = text
     
     text = remove_punctuation(text)
     text = substitute_word(text)
@@ -85,6 +85,16 @@ def preprocess_text(text):
         text)  # must remove trailing space after it
     text = jiwer.Strip()(text)
     return text
+
+
+def is_empty_file(fpath: str) -> bool:
+    file = open(fpath)
+    line = file.readline()
+    line = line
+    file.close()
+    if line == "":
+        return True
+    return False
 
 
 if __name__ == "__main__" :
