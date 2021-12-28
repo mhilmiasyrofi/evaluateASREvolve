@@ -3,6 +3,7 @@ import numpy
 import glob
 import subprocess
 import re, string
+import helper
 
 def idx_to_file(idx):
     return "/".join(idx.split("-")[:-1])
@@ -17,15 +18,6 @@ def deepspeech_recognize_audio(model_path, audio_fpath):
 
     print("DeepSpeech transcription: %s" % transcription)
     return transcription
-
-def is_empty_file(fpath: str) -> bool:
-    file = open(fpath)
-    line = file.readline()
-    line = line
-    file.close()
-    if line == "":
-        return True
-    return False
 
 def convert_flac_to_wav(flac_path, wav_fpath):
     setting = " -acodec pcm_s16le -ac 1 -ar 16000 "
@@ -64,7 +56,7 @@ if __name__ == "__main__" :
             if not os.path.exists(wav_path):
                 convert_flac_to_wav(flac_path, wav_path)
 
-            if (not os.path.exists(transcription_path)) or is_empty_file(transcription_path):
+            if (not os.path.exists(transcription_path)) or helper.is_empty_file(transcription_path):
                 transcription = deepspeech_recognize_audio(model_path, wav_path)
 
                 tfile = open(transcription_path, "w+")
