@@ -87,12 +87,20 @@ def preprocess_text(text: str) -> str:
     return text
 
 
+def preprocess_empty_text(text: str) -> str:
+    text = remove_hex(text)
+    text = remove_punctuation(text)
+    text = jiwer.RemoveMultipleSpaces()(text)
+    text = jiwer.RemoveWhiteSpace(replace_by_space=True)(text)  # must remove trailing space after it
+    text = jiwer.Strip()(text)
+    return text
+
 def is_empty_file(fpath: str) -> bool:
     file = open(fpath)
     line = file.readline()
     line = line
     file.close()
-    if line == "":
+    if preprocess_empty_text(line) == "":
         return True
     return False
 
